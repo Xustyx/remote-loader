@@ -1,0 +1,26 @@
+{
+  "name": "remote-loader",
+  "version": "0.1.7",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xustyx/remote-loader"
+  },
+  "author": {
+    "name": "xstyx",
+    "email": "dadelaricaar@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xustyx/remote-loader/issues"
+  },
+  "module": "remote-loader.js",
+  "typings": "remote-loader.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
